@@ -116,8 +116,7 @@ p {
     text-align: center;
   }
 
-  .buttonLink {
-    text-align: center;
+  .btn-primary {
     display: block;
     margin: 0 20px;
   }
@@ -125,7 +124,7 @@ p {
   .about-me {
     margin-top: 10px;
   }
-  .email-link {
+  #contact {
     padding: 20px;
   }
 }
