@@ -117,8 +117,9 @@ p {
   }
 
   .btn-primary {
+    text-align: center;
     display: block;
-    margin: 0 20px;
+    margin: 0 auto !important;
   }
 
   .about-me {
